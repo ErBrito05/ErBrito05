@@ -14,7 +14,7 @@
 
 🚀 Vamos trocar ideias e compartilhar conhecimentos:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erick-brito-707785312) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:erick.briton02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erick-brito-707785312) [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail)](mailto:erick.briton@gmail.com)
 
 #### Ferramentas e Linguagens:
 
