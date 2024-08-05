@@ -9,3 +9,7 @@
 
 ### Onde Estou Agora?
 🧠 Mergulhado em projetos empolgantes que exploram os limites da Análise de Dados e da tecnologia, sempre buscando aprender e evoluir.
+
+### Conecte-se Comigo!
+🚀 Vamos trocar ideias e compartilhar conhecimentos:
+ttps://www.linkedin.com/in/erick-brito-707785312
