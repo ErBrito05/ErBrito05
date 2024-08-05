@@ -1,5 +1,5 @@
 ### 👩‍💻 Olá, Mundo! Eu Sou o Erick! 🚀
----
+--
 ### Quem Sou Eu?
 
 🎓 Um estudante de Análise e Desenvolvimento de Sistemas que decidiu dar um mergulho profundo no mundo dos códigos e da ciência de dados.
